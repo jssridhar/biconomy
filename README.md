@@ -1,4 +1,4 @@
-# Binance
+# Biconomy
 
 A basic web3 app, which can connect to your wallet and perform basic actions.
 
