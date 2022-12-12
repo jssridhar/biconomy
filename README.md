@@ -1,4 +1,4 @@
-# Binance
+# Biconomy
 
 A basic web3 app, which can connect to your wallet and perform basic actions.
 
@@ -11,3 +11,12 @@ Used ethers.js functions to get chain id, balance, send transactions.
 There is another version (src/components/WalletPlaygroundConnected/index_hooks.tsx) which isn't being used but that used wagmi hooks. There were some issues with that version around multiple chains connectivity while testing.
 
 Used tailwind for quick prototyping + basic styling
+
+# How to Run
+
+This project was bootstrapped with Create React App.
+
+`npm start`
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
